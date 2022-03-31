@@ -1,5 +1,5 @@
 {
-  "name": "adc2019-project-Static",
+  "name": "Presentation-Randomizator-Static",
   "private": true,
   "scripts": {
     "start": "webpack serve --open --config webpack.dev.js",
